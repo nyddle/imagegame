@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/guessfilm/!svn/ver/19/trunk/parsevk
+END
+get_photo.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guessfilm/!svn/ver/20/trunk/parsevk/get_photo.py
+END
+parse_alphabet.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/guessfilm/!svn/ver/19/trunk/parsevk/parse_alphabet.pl
+END
+get_photos.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guessfilm/!svn/ver/20/trunk/parsevk/get_photos.pl
+END
+get_alphabet.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/guessfilm/!svn/ver/19/trunk/parsevk/get_alphabet.py
+END
+get_vk_url.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/guessfilm/!svn/ver/19/trunk/parsevk/get_vk_url.py
+END
+vkontakte.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/guessfilm/!svn/ver/19/trunk/parsevk/vkontakte.py
+END
